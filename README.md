@@ -11,7 +11,7 @@ for original work on 'bytebeat',
 for an overview.
 
 0xA did some video work, documented at
-[http://0xa.kuri.mu/2011/10/09/bitop-videos/]
+[https://web.archive.org/web/20160320001528/http://0xa.kuri.mu/2011/10/09/bitop-videos/]
 which led to me recreating his mplayer work. Along with a horrible hack to get 
 more pixels because I hate upscaling.
 
