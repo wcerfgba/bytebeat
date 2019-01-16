@@ -13,10 +13,10 @@ BINDIR:
 	mkdir -p bin/
 
 $(CODESBIN): $(CODESSRC)
-	gcc -o bin/$@ codes/$@.c
+	gcc -lm -o bin/$@ codes/$@.c
 
 $(TOOLSBIN): $(TOOLSSRC)
-	gcc -o bin/$@ tools/$@.c
+	gcc -lm -o bin/$@ tools/$@.c
 
 $(TOOLSSCRIPTS):
 	cp tools/$@ bin/$@

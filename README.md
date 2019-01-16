@@ -19,6 +19,10 @@ more pixels because I hate upscaling.
 philez
 ------
 
+ * bytebeat.notes.md
+
+   Notes.
+
  * codes/
 
    C source for various bytebeat tunes.
