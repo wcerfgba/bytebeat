@@ -61,3 +61,9 @@ philez
 
    Same as play_color.sh but also sets up audio for 2-byte samples. This 
    necessitates high sample rate.
+
+
+pro strats
+----------
+
+use `xxd` to examine waveforms until you write a visualizer.
